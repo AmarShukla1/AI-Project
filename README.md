@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=AmarShukla1)
 
-![image]({https://github-readme-stats.vercel.app/api?username={AmarShukla1}})
+![image]({https://github-readme-stats.vercel.app/api?username=AmarShukla1})
 
 ![image]({https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green})
 
